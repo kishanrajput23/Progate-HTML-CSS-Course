@@ -1,0 +1,19 @@
+h1 {
+  color: #ff0000;
+  /* Change the font-size to 40px */
+  font-size : 40px;
+  
+  /* Change the font-family to serif */
+  font-family : serif;
+  
+}
+
+p {
+  color: #0000ff;
+  /* Change the font-size to 20px */
+  font-size : 20px;
+  
+  /* Change the font-family to "Lucida Grande" */
+  font-family : "Lucida Grande";
+  
+}
