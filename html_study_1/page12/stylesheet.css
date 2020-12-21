@@ -1,0 +1,22 @@
+body {
+  font-family: "Avenir Next";
+}
+
+/* Change header's background-color to #f7f2b4, and height to 90px */
+.header {
+  background-color : #f7f2b4;
+  height: 90px;
+}
+
+
+/* Change main's background-color to #bdf7f1, and height to 600px */
+.main {
+  background-color : #bdf7f1;
+  height : 600px;
+}
+/* Change footer's background-color to #ceccf3, and height to 270px */
+
+.footer {
+  background-color : #ceccf3;
+  height : 270px;
+}
