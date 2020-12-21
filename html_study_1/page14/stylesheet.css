@@ -1,0 +1,31 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  /* Change the float property to left */
+   float: left; 
+  }
+  
+
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+
+/* Change header-logo's font-size to 36px, and float property to left */
+.header-logo {
+  font-size : 36px;
+  float : left;
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
