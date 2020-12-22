@@ -1,0 +1,59 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+.footer {
+  /* Change the background-color to #2f5167 */
+  background-color: #2f5167;
+  
+  /* Change the color to #fff */
+  color  : #fff;
+  
+  /* Change the height to 120px */
+  height: 120px;
+  /* Change the padding for all sides to 40px */
+  padding : 40px;
+  
+}
+
+/* Change footer-logo's font-size and float property */
+.footer-logo {
+  font-size : 32px;
+  float : left;
+}
+
+/* Change footer-list's float property */
+.footer-list {
+  float : right;
+}
+.footer-list li {
+  padding-bottom : 20px;
+}
+/* Add CSS for <li> tags within footer-list */
+
