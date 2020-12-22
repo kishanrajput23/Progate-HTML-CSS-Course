@@ -1,0 +1,37 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  /* Move the following 2 lines to around line 25 */
+  
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+/* Add CSS for <li> tags within header-list */
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
