@@ -1,0 +1,70 @@
+/* Reset CSS (DO NOT DELETE) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 33px 20px;
+}
+
+/* Write your code below */
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  font-weight: normal;
+  font-size: 36px;
+  padding: 20px 40px;
+  float: left;
+}
+
+.top {
+  padding: 100px 80px 0px 80px;
+}
+
+.top h1 {
+  font-size: 140px;
+}
+
+.top h2 {
+  font-size: 60px;
+}
+
+.dot {
+  color: #ff4a4a;
+}
+
+.lessons {
+  height: 500px;
+  padding: 100px 80px;
+}
+
+.lesson {
+  float: left;
+  padding-top: 50px;
+  font-size: 24px;
+  padding-right: 40px;
+}
+
+.lesson p {
+  padding-top: 30px;
+}
+
+.les {
+  font-size: 28px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #dee7ec;
+}
