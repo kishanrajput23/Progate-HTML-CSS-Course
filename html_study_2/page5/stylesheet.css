@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  color: white;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+/* Add CSS for btn */
+.btn {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8
+}
+
+
+/* Add CSS for signup */
+.signup {
+  background-color : #239b76;
+}
+
+
+/* Add CSS for facebook */
+.facebook {
+  background-color : #3b5998;
+  margin-right : 10px;
+}
+
+
+/* Add CSS for twitter */
+.twitter {
+  background-color : #55acee;
+}
+
+
+/* Add CSS for btn-wrapper */
+.btn-wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+/* Add CSS for <p> tags inside btn-wrapper */
+.btn-wrapper p{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
