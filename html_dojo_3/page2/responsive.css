@@ -1,0 +1,36 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+}
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  /* Add CSS for header-right */
+  .header-right {
+    display: none;
+  }
+  .top-wrapper {
+    text-align: left;
+  }
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .btn {
+    width: 100%;
+  }
+  .facebook {
+    margin-bottom : 10px;
+  }
+  /* Add CSS for menu-icon */
+  .menu-icon {
+    display: block;
+  }
+}

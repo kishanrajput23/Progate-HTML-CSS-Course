@@ -1,0 +1,17 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+  
+}
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  /* Add CSS for header-right */
+  .header-right {
+    display: none;
+  }
+  
+  /* Add CSS for menu-icon */
+  .menu-icon {
+    display: block;
+  }
+}
