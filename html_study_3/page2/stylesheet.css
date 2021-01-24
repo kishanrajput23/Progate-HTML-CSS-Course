@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+}
+
+/* Add a breakpoint at max-width: 1000px */
+@media (max-width : 1000px) {
+  /* Change <h1>'s color property to blue */
+  h1{
+    color : blue;
+  }
+  
+}
+
+/* Add a breakpoint at max-width: 670px */
+@media (max-width:670px) {
+  /* Change <h1>'s color property to green */
+  h1{
+    color: green;
+  }
+  
+}
