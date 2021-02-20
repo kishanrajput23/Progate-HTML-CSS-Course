@@ -1,0 +1,11 @@
+/* For Tablets */
+
+/* Add a breakpoint at max-width: 1000px */
+@media (max-width : 1000px) {
+  /* Add CSS for lesson */
+  .lesson {
+    width : 50%;
+    margin-bottom : 50px;
+  }
+  
+}
