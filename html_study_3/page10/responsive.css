@@ -1,0 +1,53 @@
+/* For Tablets */
+@media (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  /* Add CSS for <h1> tags inside top-wrapper */
+  .top-wrapper h1{
+    font-size : 32px;
+  }
+  /* Add CSS for <h2> tags inside heading */
+  .top-wrapper h2{
+    font-size : 20px;
+  }
+  
+}
+
+/* For Smartphones */
+@media (max-width: 670px) {
+  .lesson {
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  /* Add CSS for <h1> tags inside top-wrapper */
+  .top-wrapper h1 {
+    font-size : 24px;
+    line-height : 36px;
+  }
+  
+  /* Add CSS for <p> tags inside top-wrapper */
+  .top-wrapper p {
+    font-size : 14px;
+    line-height : 20px;
+  }
+  
+}
