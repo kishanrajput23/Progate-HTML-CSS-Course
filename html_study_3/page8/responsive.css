@@ -1,0 +1,22 @@
+/* For Tablets */
+@media (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+/* For Smartphones */
+
+/* Add a breakpoint at max-width: 670px */
+@media (max-width : 670px) {
+  /* Change lesson's width to 100% */
+  .lesson {
+    width : 100%;
+  }
+  /* Change <footer>'s text-align property */
+  footer {
+    text-align: center;
+  }
+  
+}
