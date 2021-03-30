@@ -1,5 +1,7 @@
 # Progate-HTML-CSS-Course
 
+<img src="https://miro.medium.com/max/675/1*dqLV7KjUtg57JPBCilqxSQ.jpeg" alt="">
+
 **Steps to proceed:**
 
 **1. [HTML & CSS Local Environment Setup](https://progate.com/docs/html-env-win)**
@@ -93,3 +95,8 @@ Responsive Web Design makes our web page look good on all devices, like desktops
 - Publishing your Webpage
 
 - Updating Published Pages
+
+## Finally the course completion certificate will look like this 
+
+<img src="https://github.com/kishanrajput23/Progate-HTML-CSS-Course/blob/main/Course%20Completion%20Certificate.png" alt="">
+
